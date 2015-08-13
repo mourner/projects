@@ -1,6 +1,6 @@
 # My Projects
 
-This is a list of open source projects I created, maintain or contribute to.
+This is a list of open source projects I created, maintain or actively contribute to.
 
 ## Mapping
 
@@ -21,22 +21,20 @@ This is a list of open source projects I created, maintain or contribute to.
 - [simplify-js](https://github.com/mourner/simplify-js) (author) — a fast JS polyline simplification library.
 - [tinyqueue](https://github.com/mourner/tinyqueue) (author) — a small and simple JS priority queue.
 
-#### Experiments
+## Misc
+
+- [suncalc](https://github.com/mourner/suncalc) (author) — a tiny JavaScript library for calculating sun/moon positions and phases.
+- [suncalc-go](https://github.com/mourner/suncalc-go) (author) — a Go port of SunCalc.
+- [simpleheat](https://github.com/mourner/simpleheat) (author) — a tiny JavaScript library for drawing heatmaps with Canvas.
+- [dead-simple-grid](https://github.com/mourner/dead-simple-grid) (author) — a 250-byte CSS grid framework.
+- [bullshit.js](https://github.com/mourner/bullshit.js) (author) — a bookmarklet to expose bullshit on web pages.
+- [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) (author) — a simple, fast heatmap plugin for Leaflet.
+- [Leaflet.TouchHover](https://github.com/mourner/Leaflet.TouchHover) (author) — a Leaflet plugin for Leaflet hover interactions on mobile.
+
+## Experiments
 
 - [bbtrees](https://github.com/mourner/bbtree) (author) — self-balancing binary search tree implementations in JS (unfinished).
 - [polyclip](https://github.com/mapbox/polyclip) (author) — Martin polygon boolean operations in jS (unfinished).
 - [hain](https://github.com/mourner/hain) (author) — port of Hain's polygon trapezoidation in JS (unfinished).
 - [seidel](https://github.com/mapbox/seidel) (author) — Seidel's polygon triangulation in JS (deprecated).
-
-## Data Viz
-
-- [suncalc](https://github.com/mourner/suncalc) (author) — a tiny JavaScript library for calculating sun/moon positions and phases.
-- [suncalc-go](https://github.com/mourner/suncalc-go) (author) — a Go port of SunCalc.
-- [simpleheat](https://github.com/mourner/simpleheat) (author) — a tiny JavaScript library for drawing heatmaps with Canvas.
-
-## Misc
-
-- [dead-simple-grid](https://github.com/mourner/dead-simple-grid) (author) — a 250-byte CSS grid framework.
-- [bullshit.js](https://github.com/mourner/bullshit.js) (author) — a bookmarklet to expose bullshit on web pages.
-- [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) (author) — a simple, fast heatmap plugin for Leaflet.
-- [Leaflet.TouchHover](https://github.com/mourner/Leaflet.TouchHover) (author) — a Leaflet plugin for Leaflet hover interactions on mobile.
+- [pbf-split](https://github.com/mourner/pbf-split) — splits a Node stream of length-prefixed protocol buffer messages (deprecated).
