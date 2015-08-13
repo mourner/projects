@@ -1,19 +1,19 @@
-# My Projects
+## My Projects
 
 This is a list of open source projects I created, maintain or actively contribute to.
 
-## Mapping
+### Mapping
 
 - [Leaflet](https://github.com/Leaflet/Leaflet) (author) — a JS library for interactive maps.
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) (core contributor) — a JavaScript/WebGL vector maps library.
 
-## Data
+### Data
 
 - [geojson-vt](https://github.com/mapbox/geojson-vt) (author) — a very fast tile-based geospatial index for GeoJSON data.
 - [geobuf](https://github.com/mapbox/geobuf) (maintainer) — a compact binary encoding for geospatial data.
 - [pbf](https://github.com/mapbox/pbf) (maintainer) — a low-level, lightweight protocol buffers encoder/decoder for JS.
 
-## Algorithms
+### Algorithms
 
 - [earcut](https://github.com/mapbox/earcut) (author) — the fastest and smallest JS polygon triangulation library.
 - [rbush](https://github.com/mourner/rbush) (author) — a crazy fast JS R-tree-based 2D spatial index.
@@ -21,7 +21,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [simplify-js](https://github.com/mourner/simplify-js) (author) — a fast JS polyline simplification library.
 - [tinyqueue](https://github.com/mourner/tinyqueue) (author) — a small and simple JS priority queue.
 
-## Misc
+### Misc
 
 - [suncalc](https://github.com/mourner/suncalc) (author) — a tiny JavaScript library for calculating sun/moon positions and phases.
 - [suncalc-go](https://github.com/mourner/suncalc-go) (author) — a Go port of SunCalc.
@@ -31,10 +31,10 @@ This is a list of open source projects I created, maintain or actively contribut
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) (author) — a simple, fast heatmap plugin for Leaflet.
 - [Leaflet.TouchHover](https://github.com/mourner/Leaflet.TouchHover) (author) — a Leaflet plugin for Leaflet hover interactions on mobile.
 
-## Experiments
+### Experiments
 
 - [bbtrees](https://github.com/mourner/bbtree) (author) — self-balancing binary search tree implementations in JS (unfinished).
 - [polyclip](https://github.com/mapbox/polyclip) (author) — Martin polygon boolean operations in jS (unfinished).
 - [hain](https://github.com/mourner/hain) (author) — port of Hain's polygon trapezoidation in JS (unfinished).
 - [seidel](https://github.com/mapbox/seidel) (author) — Seidel's polygon triangulation in JS (deprecated).
-- [pbf-split](https://github.com/mourner/pbf-split) — splits a Node stream of length-prefixed protocol buffer messages (deprecated).
+- [pbf-split](https://github.com/mourner/pbf-split) (author) — splits a Node stream of length-prefixed protocol buffer messages (deprecated).
