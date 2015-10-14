@@ -20,6 +20,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [rbush-knn](https://github.com/mourner/rbush-knn) (author) — k-nearest neighbors search plugin for RBush.
 - [linematch](https://github.com/mapbox/linematch) (author) — an ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
 - [lineclip](https://github.com/mapbox/lineclip) (author) — a fast library for clipping polylines and polygons by a bbox.
+- [pixelmatch](https://github.com/mapbox/pixelmatch) (author) — the fastest and smallest pixel-level image comparison library.
 - [simplify-js](https://github.com/mourner/simplify-js) (author) — a fast JS polyline simplification library.
 - [tinyqueue](https://github.com/mourner/tinyqueue) (author) — a small and simple JS priority queue.
 - [tile-cover](https://github.com/mapbox/tile-cover) (contributor) — generates the minimum set of tiles that cover a geometry.
