@@ -12,6 +12,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [geojson-vt](https://github.com/mapbox/geojson-vt) (author) — a very fast tile-based geospatial index for GeoJSON data.
 - [geobuf](https://github.com/mapbox/geobuf) (maintainer) — a compact binary encoding for geospatial data.
 - [pbf](https://github.com/mapbox/pbf) (maintainer) — a low-level, lightweight protocol buffers encoder/decoder for JS.
+- [tile-reduce](https://github.com/mapbox/tile-reduce) (core contributor) — a scalable vector tile geospatial analysis library for Node.
 
 ### Algorithms
 
@@ -42,3 +43,4 @@ This is a list of open source projects I created, maintain or actively contribut
 - [hain](https://github.com/mourner/hain) (author) — port of Hain's polygon trapezoidation in JS (unfinished).
 - [seidel](https://github.com/mapbox/seidel) (author) — Seidel's polygon triangulation in JS (deprecated).
 - [pbf-split](https://github.com/mourner/pbf-split) (author) — splits a Node stream of length-prefixed protocol buffer messages (deprecated).
+- [fanny](https://github.com/mourner/fanny) (author) — experiments with feedforward neural networks in JS.
