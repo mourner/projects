@@ -20,6 +20,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [earcut](https://github.com/mapbox/earcut) (author) — the fastest and smallest JS polygon triangulation library.
 - [rbush](https://github.com/mourner/rbush) (author) — a crazy fast JS R-tree-based 2D spatial index.
 - [rbush-knn](https://github.com/mourner/rbush-knn) (author) — k-nearest neighbors search plugin for RBush.
+- [supercluster](https://github.com/mapbox/supercluster) (author) — a fast geospatial point clustering library.
 - [linematch](https://github.com/mapbox/linematch) (author) — an ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
 - [lineclip](https://github.com/mapbox/lineclip) (author) — a fast library for clipping polylines and polygons by a bbox.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) (author) — the fastest and smallest pixel-level image comparison library.
