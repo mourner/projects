@@ -14,10 +14,12 @@ This is a list of open source projects I created, maintain or actively contribut
 - [geobuf](https://github.com/mapbox/geobuf) (maintainer) — a compact binary encoding for geospatial data.
 - [pbf](https://github.com/mapbox/pbf) (maintainer) — a low-level, lightweight protocol buffers encoder/decoder for JS.
 - [tile-reduce](https://github.com/mapbox/tile-reduce) (core contributor) — a scalable vector tile geospatial analysis library for Node.
+- [feature-filter](https://github.com/mapbox/feature-filter/) (author) — a JS library for filtering vector tile features using JSON expressions.
 
 ### Algorithms
 
 - [earcut](https://github.com/mapbox/earcut) (author) — the fastest and smallest JS polygon triangulation library.
+- [earcut-cpp](https://github.com/mapbox/earcut) (contributor) — a C++11 port of Earcut.
 - [rbush](https://github.com/mourner/rbush) (author) — a crazy fast JS R-tree-based 2D spatial index.
 - [rbush-knn](https://github.com/mourner/rbush-knn) (author) — k-nearest neighbors search plugin for RBush.
 - [supercluster](https://github.com/mapbox/supercluster) (author) — a fast geospatial point clustering library.
@@ -27,6 +29,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [simplify-js](https://github.com/mourner/simplify-js) (author) — a fast JS polyline simplification library.
 - [tinyqueue](https://github.com/mourner/tinyqueue) (author) — a small and simple JS priority queue.
 - [tile-cover](https://github.com/mapbox/tile-cover) (contributor) — generates the minimum set of tiles that cover a geometry.
+- [which-polygon](https://github.com/mapbox/which-polygon) (author) — a fast index for matching points against a set of polygons (e.g. point in country queries).
 
 ### Misc
 
