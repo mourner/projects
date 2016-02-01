@@ -40,6 +40,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [bullshit.js](https://github.com/mourner/bullshit.js) (author) — a bookmarklet to expose bullshit on web pages.
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) (author) — a simple, fast heatmap plugin for Leaflet.
 - [Leaflet.TouchHover](https://github.com/mourner/Leaflet.TouchHover) (author) — a Leaflet plugin for Leaflet hover interactions on mobile.
+- [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec) (core contributor) — Mapbox GL map style language specification.
 
 ### Experiments
 
