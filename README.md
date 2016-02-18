@@ -31,6 +31,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [tinyqueue](https://github.com/mourner/tinyqueue) (author) — a small and simple JS priority queue.
 - [tile-cover](https://github.com/mapbox/tile-cover) (contributor) — generates the minimum set of tiles that cover a geometry.
 - [which-polygon](https://github.com/mapbox/which-polygon) (author) — a fast index for matching points against a set of polygons (e.g. point in country queries).
+- [quickselect](https://github.com/mourner/quickselect) (author) — a fast selection algorithm in JavaScript (Floyd-Rivest).
 
 ### Misc
 
@@ -51,3 +52,4 @@ This is a list of open source projects I created, maintain or actively contribut
 - [seidel](https://github.com/mapbox/seidel) (author) — Seidel's polygon triangulation in JS (deprecated).
 - [pbf-split](https://github.com/mourner/pbf-split) (author) — splits a Node stream of length-prefixed protocol buffer messages (deprecated).
 - [fanny](https://github.com/mourner/fanny) (author) — experiments with feedforward neural networks in JS.
+- [github-org-browser](https://github.com/mapbox/github-org-browser) (author) — a simple tool for browsing public repos of a GitHub organization.
