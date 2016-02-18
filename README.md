@@ -4,7 +4,7 @@ This is a list of open source projects I created, maintain or actively contribut
 
 ### Mapping
 
-- [Leaflet](https://github.com/Leaflet/Leaflet) (author) — a JS library for interactive maps.
+- [Leaflet](https://github.com/Leaflet/Leaflet) (author) — the number one JavaScript library for interactive maps.
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) (core contributor) — a JavaScript/WebGL vector maps library.
 
 ### Data
@@ -19,7 +19,7 @@ This is a list of open source projects I created, maintain or actively contribut
 ### Algorithms
 
 - [earcut](https://github.com/mapbox/earcut) (author) — the fastest and smallest JS polygon triangulation library.
-- [earcut-cpp](https://github.com/mapbox/earcut) (contributor) — a C++11 port of Earcut.
+- [earcut.hpp](https://github.com/mapbox/earcut.hpp) (contributor) — a C++11 port of Earcut.
 - [rbush](https://github.com/mourner/rbush) (author) — a crazy fast JS R-tree-based 2D spatial index.
 - [rbush-knn](https://github.com/mourner/rbush-knn) (author) — k-nearest neighbors search plugin for RBush.
 - [concaveman](https://github.com/mapbox/concaveman) (author) — the fastest concave hull algorithm in JS.
