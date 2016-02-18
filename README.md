@@ -43,6 +43,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) (author) — a simple, fast heatmap plugin for Leaflet.
 - [Leaflet.TouchHover](https://github.com/mourner/Leaflet.TouchHover) (author) — a Leaflet plugin for Leaflet hover interactions on mobile.
 - [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec) (core contributor) — Mapbox GL map style language specification.
+- [github-org-browser](https://github.com/mapbox/github-org-browser) (author) — a simple tool for browsing public repos of a GitHub organization.
 
 ### Experiments
 
@@ -52,4 +53,3 @@ This is a list of open source projects I created, maintain or actively contribut
 - [seidel](https://github.com/mapbox/seidel) (author) — Seidel's polygon triangulation in JS (deprecated).
 - [pbf-split](https://github.com/mourner/pbf-split) (author) — splits a Node stream of length-prefixed protocol buffer messages (deprecated).
 - [fanny](https://github.com/mourner/fanny) (author) — experiments with feedforward neural networks in JS.
-- [github-org-browser](https://github.com/mapbox/github-org-browser) (author) — a simple tool for browsing public repos of a GitHub organization.
