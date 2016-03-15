@@ -44,6 +44,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [Leaflet.TouchHover](https://github.com/mourner/Leaflet.TouchHover) (author) — a Leaflet plugin for Leaflet hover interactions on mobile.
 - [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec) (core contributor) — Mapbox GL map style language specification.
 - [github-org-browser](https://github.com/mapbox/github-org-browser) (author) — a simple tool for browsing public repos of a GitHub organization.
+- [binary-split](https://github.com/maxogden/binary-split) (maintainer) — a fast splitting Node stream.
 
 ### Experiments
 
