@@ -19,9 +19,11 @@ This is a list of open source projects I created, maintain or actively contribut
 ### Algorithms
 
 - [earcut](https://github.com/mapbox/earcut) (author) — the fastest and smallest JS polygon triangulation library.
-- [earcut.hpp](https://github.com/mapbox/earcut.hpp) (contributor) — a C++11 port of Earcut.
+- [earcut.hpp](https://github.com/mapbox/earcut.hpp) (core contributor) — a C++11 port of Earcut.
 - [rbush](https://github.com/mourner/rbush) (author) — a crazy fast JS R-tree-based 2D spatial index.
 - [rbush-knn](https://github.com/mourner/rbush-knn) (author) — k-nearest neighbors search plugin for RBush.
+- [kdbush](https://github.com/mourner/kdbush) (author) — a fast static spatial index for 2D points.
+- [kdbush.hpp](https://github.com/mourner/kdbush.hpp) (author) — a C++11 port of KDBush.
 - [concaveman](https://github.com/mapbox/concaveman) (author) — the fastest concave hull algorithm in JS.
 - [supercluster](https://github.com/mapbox/supercluster) (author) — a fast geospatial point clustering library.
 - [linematch](https://github.com/mapbox/linematch) (author) — an ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
@@ -29,9 +31,11 @@ This is a list of open source projects I created, maintain or actively contribut
 - [pixelmatch](https://github.com/mapbox/pixelmatch) (author) — the fastest and smallest pixel-level image comparison library.
 - [simplify-js](https://github.com/mourner/simplify-js) (author) — a fast JS polyline simplification library.
 - [tinyqueue](https://github.com/mourner/tinyqueue) (author) — a small and simple JS priority queue.
-- [tile-cover](https://github.com/mapbox/tile-cover) (contributor) — generates the minimum set of tiles that cover a geometry.
+- [tile-cover](https://github.com/mapbox/tile-cover) (core contributor) — generates the minimum set of tiles that cover a geometry.
 - [which-polygon](https://github.com/mapbox/which-polygon) (author) — a fast index for matching points against a set of polygons (e.g. point in country queries).
 - [quickselect](https://github.com/mourner/quickselect) (author) — a fast selection algorithm in JavaScript (Floyd-Rivest).
+- [cheap-ruler](https://github.com/mapbox/cheap-ruler) (author) — a collection of fast approximations for common geographic measurements.
+- [simple-statistics](https://github.com/simple-statistics/simple-statistics) (core contributor) — A JavaScript implementation of descriptive, regression, and inference statistics.
 
 ### Misc
 
