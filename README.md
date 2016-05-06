@@ -26,6 +26,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [kdbush.hpp](https://github.com/mourner/kdbush.hpp) (author) — a C++11 port of KDBush.
 - [concaveman](https://github.com/mapbox/concaveman) (author) — the fastest concave hull algorithm in JS.
 - [supercluster](https://github.com/mapbox/supercluster) (author) — a fast geospatial point clustering library.
+- [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) (author) — a C++14 port of Supercluster.
 - [linematch](https://github.com/mapbox/linematch) (author) — an ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
 - [lineclip](https://github.com/mapbox/lineclip) (author) — a fast library for clipping polylines and polygons by a bbox.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) (author) — the fastest and smallest pixel-level image comparison library.
