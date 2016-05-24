@@ -16,6 +16,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [tile-reduce](https://github.com/mapbox/tile-reduce) (core contributor) — a scalable vector tile geospatial analysis library for Node.
 - [feature-filter](https://github.com/mapbox/feature-filter/) (author) — a JS library for filtering vector tile features using JSON expressions.
 - [geojson.hpp](https://github.com/mapbox/geojson.hpp) (author) — a C++14 library for converting GeoJSON into [geometry.hpp](https://github.com/mapbox/geometry.hpp) representation.
+- [tile-decorator](https://github.com/mapbox/tile-decorator) (author) — a JS tool for optimizing vector tiles.
 
 ### Algorithms
 
