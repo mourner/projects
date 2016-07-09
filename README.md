@@ -33,11 +33,12 @@ This is a list of open source projects I created, maintain or actively contribut
 - [lineclip](https://github.com/mapbox/lineclip) (author) — a fast library for clipping polylines and polygons by a bbox.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) (author) — the fastest and smallest pixel-level image comparison library.
 - [simplify-js](https://github.com/mourner/simplify-js) (author) — a fast JS polyline simplification library.
+- [cheap-ruler](https://github.com/mapbox/cheap-ruler) (author) — a collection of fast approximations for common geographic measurements.
+- [polylabel](https://github.com/mapbox/polylabel) (author) — a JavaScript library for finding pole of inaccessibility of a polygon (for labeling).
 - [tinyqueue](https://github.com/mourner/tinyqueue) (author) — a small and simple JS priority queue.
 - [tile-cover](https://github.com/mapbox/tile-cover) (core contributor) — generates the minimum set of tiles that cover a geometry.
 - [which-polygon](https://github.com/mapbox/which-polygon) (author) — a fast index for matching points against a set of polygons (e.g. point in country queries).
 - [quickselect](https://github.com/mourner/quickselect) (author) — a fast selection algorithm in JavaScript (Floyd-Rivest).
-- [cheap-ruler](https://github.com/mapbox/cheap-ruler) (author) — a collection of fast approximations for common geographic measurements.
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) (core contributor) — A JavaScript implementation of descriptive, regression, and inference statistics.
 
 ### Misc
@@ -55,6 +56,7 @@ This is a list of open source projects I created, maintain or actively contribut
 
 ### Experiments
 
+- [polysnap](https://github.com/mapbox/polysnap) (author) — snap rounding a polygon with self-intersections.
 - [bbtrees](https://github.com/mourner/bbtree) (author) — self-balancing binary search tree implementations in JS (unfinished).
 - [polyclip](https://github.com/mapbox/polyclip) (author) — Martin polygon boolean operations in jS (unfinished).
 - [hain](https://github.com/mourner/hain) (author) — port of Hain's polygon trapezoidation in JS (unfinished).
