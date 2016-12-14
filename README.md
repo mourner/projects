@@ -40,9 +40,11 @@ This is a list of open source projects I created, maintain or actively contribut
 - [which-polygon](https://github.com/mapbox/which-polygon) (author) — a fast index for matching points against a set of polygons (e.g. point in country queries).
 - [quickselect](https://github.com/mourner/quickselect) (author) — a fast selection algorithm in JavaScript (Floyd-Rivest).
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) (core contributor) — A JavaScript implementation of descriptive, regression, and inference statistics.
+- [tiny-sdf](https://github.com/mapbox/tiny-sdf) (author) — a JS library for browser-side signed distance field generation from text.
 
 ### Misc
 
+- [webgl-wind](https://github.com/mapbox/webgl-wind) (author) — a fully GPU-powered wind simulation using WebGL.
 - [suncalc](https://github.com/mourner/suncalc) (author) — a tiny JavaScript library for calculating sun/moon positions and phases.
 - [suncalc-go](https://github.com/mourner/suncalc-go) (author) — a Go port of SunCalc.
 - [simpleheat](https://github.com/mourner/simpleheat) (author) — a tiny JavaScript library for drawing heatmaps with Canvas.
