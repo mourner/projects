@@ -14,9 +14,9 @@ This is a list of open source projects I created, maintain or actively contribut
 - [geobuf](https://github.com/mapbox/geobuf) (maintainer) — a compact binary encoding for geospatial data.
 - [pbf](https://github.com/mapbox/pbf) (maintainer) — a low-level, lightweight protocol buffers encoder/decoder for JS.
 - [tile-reduce](https://github.com/mapbox/tile-reduce) (core contributor) — a scalable vector tile geospatial analysis library for Node.
-- [feature-filter](https://github.com/mapbox/feature-filter/) (author) — a JS library for filtering vector tile features using JSON expressions.
 - [geojson.hpp](https://github.com/mapbox/geojson.hpp) (author) — a C++14 library for converting GeoJSON into [geometry.hpp](https://github.com/mapbox/geometry.hpp) representation.
 - [tile-decorator](https://github.com/mapbox/tile-decorator) (author) — a JS tool for optimizing vector tiles.
+- [mbtiles-extracts](https://github.com/mapbox/mbtiles-extracts) (author) — a tool for extracting regional subsets of MBTiles files.
 
 ### Algorithms
 
@@ -46,7 +46,6 @@ This is a list of open source projects I created, maintain or actively contribut
 
 - [webgl-wind](https://github.com/mapbox/webgl-wind) (author) — a fully GPU-powered wind simulation using WebGL.
 - [suncalc](https://github.com/mourner/suncalc) (author) — a tiny JavaScript library for calculating sun/moon positions and phases.
-- [suncalc-go](https://github.com/mourner/suncalc-go) (author) — a Go port of SunCalc.
 - [simpleheat](https://github.com/mourner/simpleheat) (author) — a tiny JavaScript library for drawing heatmaps with Canvas.
 - [dead-simple-grid](https://github.com/mourner/dead-simple-grid) (author) — a 250-byte CSS grid framework.
 - [bullshit.js](https://github.com/mourner/bullshit.js) (author) — a bookmarklet to expose bullshit on web pages.
@@ -65,3 +64,4 @@ This is a list of open source projects I created, maintain or actively contribut
 - [seidel](https://github.com/mapbox/seidel) (author) — Seidel's polygon triangulation in JS (deprecated).
 - [pbf-split](https://github.com/mourner/pbf-split) (author) — splits a Node stream of length-prefixed protocol buffer messages (deprecated).
 - [fanny](https://github.com/mourner/fanny) (author) — experiments with feedforward neural networks in JS.
+- [suncalc-go](https://github.com/mourner/suncalc-go) (author) — a Go port of SunCalc (unfinished).
