@@ -26,6 +26,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [rbush-knn](https://github.com/mourner/rbush-knn) (author) — k-nearest neighbors search plugin for RBush.
 - [kdbush](https://github.com/mourner/kdbush) (author) — a fast static spatial index for 2D points.
 - [kdbush.hpp](https://github.com/mourner/kdbush.hpp) (author) — a C++11 port of KDBush.
+- [geokdbush](https://github.com/mourner/geokdbush) (author) — a geographic extension to kdbush for fast kNN queries of locations on Earth.
 - [concaveman](https://github.com/mapbox/concaveman) (author) — the fastest concave hull algorithm in JS.
 - [supercluster](https://github.com/mapbox/supercluster) (author) — a fast geospatial point clustering library.
 - [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) (author) — a C++14 port of Supercluster.
