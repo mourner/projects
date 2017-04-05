@@ -7,17 +7,6 @@ This is a list of open source projects I created, maintain or actively contribut
 - [Leaflet](https://github.com/Leaflet/Leaflet) (author) — the number one JavaScript library for interactive maps.
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) (core contributor) — a JavaScript/WebGL vector maps library.
 
-### Data
-
-- [geojson-vt](https://github.com/mapbox/geojson-vt) (author) — a very fast tile-based geospatial index for GeoJSON data.
-- [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) (core contributor) — a C++11 port of GeoJSON-VT.
-- [geobuf](https://github.com/mapbox/geobuf) (maintainer) — a compact binary encoding for geospatial data.
-- [pbf](https://github.com/mapbox/pbf) (maintainer) — a low-level, lightweight protocol buffers encoder/decoder for JS.
-- [tile-reduce](https://github.com/mapbox/tile-reduce) (core contributor) — a scalable vector tile geospatial analysis library for Node.
-- [geojson.hpp](https://github.com/mapbox/geojson.hpp) (author) — a C++14 library for converting GeoJSON into [geometry.hpp](https://github.com/mapbox/geometry.hpp) representation.
-- [tile-decorator](https://github.com/mapbox/tile-decorator) (author) — a JS tool for optimizing vector tiles.
-- [mbtiles-extracts](https://github.com/mapbox/mbtiles-extracts) (author) — a tool for extracting regional subsets of MBTiles files.
-
 ### Algorithms
 
 - [earcut](https://github.com/mapbox/earcut) (author) — the fastest and smallest JS polygon triangulation library.
@@ -43,6 +32,17 @@ This is a list of open source projects I created, maintain or actively contribut
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) (core contributor) — A JavaScript implementation of descriptive, regression, and inference statistics.
 - [tiny-sdf](https://github.com/mapbox/tiny-sdf) (author) — a JS library for browser-side signed distance field generation from text.
 
+### Data
+
+- [geojson-vt](https://github.com/mapbox/geojson-vt) (author) — a very fast tile-based geospatial index for GeoJSON data.
+- [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) (core contributor) — a C++11 port of GeoJSON-VT.
+- [geobuf](https://github.com/mapbox/geobuf) (maintainer) — a compact binary encoding for geospatial data.
+- [pbf](https://github.com/mapbox/pbf) (maintainer) — a low-level, lightweight protocol buffers encoder/decoder for JS.
+- [tile-reduce](https://github.com/mapbox/tile-reduce) (core contributor) — a scalable vector tile geospatial analysis library for Node.
+- [geojson.hpp](https://github.com/mapbox/geojson.hpp) (author) — a C++14 library for converting GeoJSON into [geometry.hpp](https://github.com/mapbox/geometry.hpp) representation.
+- [tile-decorator](https://github.com/mapbox/tile-decorator) (author) — a JS tool for optimizing vector tiles.
+- [mbtiles-extracts](https://github.com/mapbox/mbtiles-extracts) (author) — a tool for extracting regional subsets of MBTiles files.
+
 ### Misc
 
 - [webgl-wind](https://github.com/mapbox/webgl-wind) (author) — a fully GPU-powered wind simulation using WebGL.
@@ -55,6 +55,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec) (core contributor) — Mapbox GL map style language specification.
 - [github-org-browser](https://github.com/mapbox/github-org-browser) (author) — a simple tool for browsing public repos of a GitHub organization.
 - [binary-split](https://github.com/maxogden/binary-split) (maintainer) — a fast splitting Node stream.
+- [cumulative-timer](https://github.com/mapbox/cumulative-timer) (author) — a simple cumulative timer for benchmarking JavaScript.
 
 ### Experiments
 
