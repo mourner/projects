@@ -57,6 +57,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [github-org-browser](https://github.com/mapbox/github-org-browser) (author) — a simple tool for browsing public repos of a GitHub organization.
 - [binary-split](https://github.com/maxogden/binary-split) (maintainer) — a fast splitting Node stream.
 - [cumulative-timer](https://github.com/mapbox/cumulative-timer) (author) — a simple cumulative timer for benchmarking JavaScript.
+- [magic-string](https://github.com/Rich-Harris/magic-string) (core contributor) — a tool for generating source maps.
 
 ### Experiments
 
