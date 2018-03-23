@@ -2,6 +2,8 @@
 
 This is a list of open source projects I created, maintain or actively contribute to.
 
+[![](https://img.shields.io/badge/simply-awesome-brightgreen.svg)](https://github.com/mourner/projects)
+
 ### Mapping
 
 - [Leaflet](https://github.com/Leaflet/Leaflet) (author) — the number one JavaScript library for interactive maps.
@@ -21,6 +23,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [supercluster](https://github.com/mapbox/supercluster) (author) — a fast geospatial point clustering library.
 - [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) (author) — a C++14 port of Supercluster.
 - [delaunator](https://github.com/mapbox/delaunator) (author) — the fastest JS Delaunay triangulation library for 2D points.
+- [d3-delaunay](https://github.com/d3/d3-delaunay) (core contributor) — a fast Voronoi diagram library for 2D points (based on Delaunator).
 - [linematch](https://github.com/mapbox/linematch) (author) — an ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
 - [lineclip](https://github.com/mapbox/lineclip) (author) — a fast library for clipping polylines and polygons by a bbox.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) (author) — the fastest and smallest pixel-level image comparison library.
