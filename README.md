@@ -13,13 +13,14 @@ Project | Role | Description
 [earcut.hpp](https://github.com/mapbox/earcut.hpp) | core&nbsp;contributor | C++11 port of Earcut.
 [rbush](https://github.com/mourner/rbush) | author | Very fast JS R-tree-based 2D spatial index.
 [rbush-knn](https://github.com/mourner/rbush-knn) | author | K-nearest neighbors search plugin for RBush.
-[kdbush](https://github.com/mourner/kdbush) | author | Fast static spatial index for 2D points.
+[kdbush](https://github.com/mourner/kdbush) | author | The fastest 2D static spatial index in JavaScript.
 [kdbush.hpp](https://github.com/mourner/kdbush.hpp) | author | C++11 port of KDBush.
 [geokdbush](https://github.com/mourner/geokdbush) | author | Geographic extension to kdbush for fast kNN queries of locations on Earth.
 [flatbush](https://github.com/mourner/flatbush) | author | Fast static spatial index for 2D rectangles and points.
 [concaveman](https://github.com/mapbox/concaveman) | author | The fastest concave hull algorithm in JS.
 [supercluster](https://github.com/mapbox/supercluster) | author | Fast geospatial point clustering library.
 [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) | author | C++14 port of Supercluster.
+[dobbyscan](https://github.com/mapbox/dobbyscan) | author | Fast density-based clustering of geographic points.
 [delaunator](https://github.com/mapbox/delaunator) | author | The fastest JS Delaunay triangulation library for 2D points.
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;contributor | Fast Voronoi diagram library for 2D points (based on Delaunator).
 [linematch](https://github.com/mapbox/linematch) | author | An ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
