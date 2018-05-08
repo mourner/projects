@@ -8,6 +8,7 @@ Project | Role | Description
 --- | --- | ---
 [Leaflet](https://github.com/Leaflet/Leaflet) | author | The number one JavaScript library for interactive maps.
 [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) | core&nbsp;contributor | JavaScript/WebGL vector maps library.
+[mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | core&nbsp;contributor | OpenGL-based vector maps library.
 **Algorithms** | |
 [earcut](https://github.com/mapbox/earcut) | author | The fastest and smallest JS polygon triangulation library.
 [earcut.hpp](https://github.com/mapbox/earcut.hpp) | core&nbsp;contributor | C++11 port of Earcut.
@@ -17,6 +18,7 @@ Project | Role | Description
 [kdbush.hpp](https://github.com/mourner/kdbush.hpp) | author | C++11 port of KDBush.
 [geokdbush](https://github.com/mourner/geokdbush) | author | Geographic extension to kdbush for fast kNN queries of locations on Earth.
 [flatbush](https://github.com/mourner/flatbush) | author | Fast static spatial index for 2D rectangles and points.
+[geoflatbush](https://github.com/mourner/geoflatbush) | author | Geographic kNN queries for Flatbush.
 [concaveman](https://github.com/mapbox/concaveman) | author | The fastest concave hull algorithm in JS.
 [supercluster](https://github.com/mapbox/supercluster) | author | Fast geospatial point clustering library.
 [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) | author | C++14 port of Supercluster.
@@ -30,6 +32,7 @@ Project | Role | Description
 [cheap-ruler](https://github.com/mapbox/cheap-ruler) | author | Collection of fast approximations for common geographic measurements.
 [polylabel](https://github.com/mapbox/polylabel) | author | JavaScript library for finding pole of inaccessibility of a polygon (for labeling).
 [tinyqueue](https://github.com/mourner/tinyqueue) | author | Small and simple JS priority queue.
+[flatqueue](https://github.com/mourner/flatqueue) | author | A faster variation of a JS priority queue.
 [tile-cover](https://github.com/mapbox/tile-cover) | core&nbsp;contributor | Generates the minimum set of tiles that cover a geometry.
 [which-polygon](https://github.com/mapbox/which-polygon) | author | Fast index for matching points against a set of polygons (e.g. point in country queries).
 [quickselect](https://github.com/mourner/quickselect) | author | Fast selection algorithm in JavaScript (Floyd-Rivest).
