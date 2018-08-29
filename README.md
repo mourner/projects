@@ -33,6 +33,7 @@ Project | Role | Description
 [polylabel](https://github.com/mapbox/polylabel) | author | JavaScript library for finding pole of inaccessibility of a polygon (for labeling).
 [tinyqueue](https://github.com/mourner/tinyqueue) | author | Small and simple JS priority queue.
 [flatqueue](https://github.com/mourner/flatqueue) | author | A faster variation of a JS priority queue.
+[potpack](https://github.com/mapbox/potpack) | author | A tiny and fast JavaScript rectangle packing library (for sprite layouts).
 [tile-cover](https://github.com/mapbox/tile-cover) | core&nbsp;contributor | Generates the minimum set of tiles that cover a geometry.
 [which-polygon](https://github.com/mapbox/which-polygon) | author | Fast index for matching points against a set of polygons (e.g. point in country queries).
 [quickselect](https://github.com/mourner/quickselect) | author | Fast selection algorithm in JavaScript (Floyd-Rivest).
