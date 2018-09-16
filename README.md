@@ -24,6 +24,7 @@ Project | Role | Description
 [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) | author | C++14 port of Supercluster.
 [dobbyscan](https://github.com/mapbox/dobbyscan) | author | Fast density-based clustering of geographic points.
 [delaunator](https://github.com/mapbox/delaunator) | author | The fastest JS Delaunay triangulation library for 2D points.
+[delaunator-rs](https://github.com/mourner/delaunator-rs) | author | A port of Delaunator to Rust.
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;contributor | Fast Voronoi diagram library for 2D points (based on Delaunator).
 [linematch](https://github.com/mapbox/linematch) | author | An ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
 [lineclip](https://github.com/mapbox/lineclip) | author | Fast library for clipping polylines and polygons by a bbox.
