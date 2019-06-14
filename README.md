@@ -62,6 +62,8 @@ Project | Role | Description
 [binary-split](https://github.com/maxogden/binary-split) | maintainer | Fast splitting Node stream.
 [cumulative-timer](https://github.com/mapbox/cumulative-timer) | author | Simple cumulative timer for benchmarking JavaScript.
 [magic-string](https://github.com/Rich-Harris/magic-string) | core&nbsp;contributor | Tool for generating source maps.
+[road-orientation-map](https://github.com/mourner/road-orientation-map) | author | A visualization of road orientations on an interactive map.
+[rollup-plugin-unassert](https://github.com/unassert-js/rollup-plugin-unassert) | maintainer | A Rollup plugin to remove assertion calls via Unassert.
 **Experiments** | |
 [polysnap](https://github.com/mapbox/polysnap) | author | Snap rounding a polygon with self-intersections (a work in progress).
 [bbtrees](https://github.com/mourner/bbtree) | author | Self-balancing binary search tree implementations in JS (unfinished).
