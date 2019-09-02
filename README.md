@@ -41,6 +41,7 @@ Project | Role | Description
 [quickselect](https://github.com/mourner/quickselect) | author | Fast selection algorithm in JavaScript (Floyd-Rivest).
 [simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;contributor | JavaScript implementation of descriptive, regression, and inference statistics.
 [tiny-sdf](https://github.com/mapbox/tiny-sdf) | author | JS library for browser-side signed distance field generation from text.
+[robust-predicates](https://github.com/mourner/robust-predicates) | author | Fast robust geometric predicates for computational geometry (modern JS port of J. Shewchuk's predicates).
 **Data** | |
 [geojson-vt](https://github.com/mapbox/geojson-vt) | author | Very fast tile-based geospatial index for GeoJSON data.
 [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) | core&nbsp;contributor | C++11 port of GeoJSON-VT.
