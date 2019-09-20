@@ -1,8 +1,6 @@
-## Vladimir Agafonkin's Projects
+## [Vladimir Agafonkin](https://agafonkin.com/)'s projects
 
-This is a list of open source projects I created, maintain or actively contribute to.
-
-[![](https://img.shields.io/badge/simply-awesome-brightgreen.svg)](https://github.com/mourner/projects)
+A list of open source projects I created, maintain or actively contribute to. [![](https://img.shields.io/badge/simply-awesome-brightgreen.svg)](https://github.com/mourner/projects)
 
 Project | Role | Description
 --- | --- | ---
@@ -19,7 +17,7 @@ Project | Role | Description
 [geokdbush](https://github.com/mourner/geokdbush) | author | Geographic extension to kdbush for fast kNN queries of locations on Earth.
 [flatbush](https://github.com/mourner/flatbush) | author | Fast static spatial index for 2D rectangles and points.
 [geoflatbush](https://github.com/mourner/geoflatbush) | author | Geographic kNN queries for Flatbush.
-[martin](https://github.com/mapbox/martin) | author | A JavaScript library for real-time 3D terrain mesh generation.
+[MARTINI](https://github.com/mapbox/martini) | author | A JavaScript library for real-time 3D terrain mesh generation.
 [concaveman](https://github.com/mapbox/concaveman) | author | The fastest concave hull algorithm in JS.
 [supercluster](https://github.com/mapbox/supercluster) | author | Fast geospatial point clustering library.
 [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) | author | C++14 port of Supercluster.
