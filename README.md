@@ -25,6 +25,7 @@ Project | Role | Description
 [delaunator](https://github.com/mapbox/delaunator) | author | The fastest JS Delaunay triangulation library for 2D points.
 [delaunator-rs](https://github.com/mourner/delaunator-rs) | author | A port of Delaunator to Rust.
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;contributor | Fast Voronoi diagram library for 2D points (based on Delaunator).
+[icomesh](https://github.com/mourner/icomesh) | author | Fast JavaScript icosphere mesh generation library for WebGL visualizations.
 [linematch](https://github.com/mapbox/linematch) | author | An ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
 [lineclip](https://github.com/mapbox/lineclip) | author | Fast library for clipping polylines and polygons by a bbox.
 [pixelmatch](https://github.com/mapbox/pixelmatch) | author | The fastest and smallest pixel-level image comparison library.
