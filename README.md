@@ -17,7 +17,6 @@ Project | Role | Description
 [geokdbush](https://github.com/mourner/geokdbush) | author | Geographic extension to kdbush for fast kNN queries of locations on Earth.
 [flatbush](https://github.com/mourner/flatbush) | author | Fast static spatial index for 2D rectangles and points.
 [geoflatbush](https://github.com/mourner/geoflatbush) | author | Geographic kNN queries for Flatbush.
-[MARTINI](https://github.com/mapbox/martini) | author | A JavaScript library for real-time 3D terrain mesh generation.
 [concaveman](https://github.com/mapbox/concaveman) | author | The fastest concave hull algorithm in JS.
 [supercluster](https://github.com/mapbox/supercluster) | author | Fast geospatial point clustering library.
 [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) | author | C++14 port of Supercluster.
@@ -25,6 +24,8 @@ Project | Role | Description
 [delaunator](https://github.com/mapbox/delaunator) | author | The fastest JS Delaunay triangulation library for 2D points.
 [delaunator-rs](https://github.com/mourner/delaunator-rs) | author | A port of Delaunator to Rust.
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;contributor | Fast Voronoi diagram library for 2D points (based on Delaunator).
+[delatin](https://github.com/mapbox/delatin) | author | A fast JavaScript 3D terrain mesh generation tool.
+[MARTINI](https://github.com/mapbox/martini) | author | A JavaScript library for real-time 3D terrain mesh generation.
 [icomesh](https://github.com/mourner/icomesh) | author | Fast JavaScript icosphere mesh generation library for WebGL visualizations.
 [linematch](https://github.com/mapbox/linematch) | author | An ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
 [lineclip](https://github.com/mapbox/lineclip) | author | Fast library for clipping polylines and polygons by a bbox.
