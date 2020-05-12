@@ -54,6 +54,7 @@ Project | Role | Description
 **Misc** | |
 [webgl-wind](https://github.com/mapbox/webgl-wind) | author | Fully GPU-powered wind simulation using WebGL.
 [suncalc](https://github.com/mourner/suncalc) | author | Tiny JavaScript library for calculating sun/moon positions and phases.
+[tinyjam](https://github.com/mourner/tinyjam) | author | A radically simple, zero-configuration static site generator.
 [flamebearer](https://github.com/mapbox/flamebearer) | author | Blazing fast flame graphs for Node & V8.
 [simpleheat](https://github.com/mourner/simpleheat) | author | Tiny JavaScript library for drawing heatmaps with Canvas.
 [dead-simple-grid](https://github.com/mourner/dead-simple-grid) | author | 250-byte CSS grid framework.
