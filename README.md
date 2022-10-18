@@ -1,4 +1,4 @@
-## [Vladimir Agafonkin](https://agafonkin.com/)'s projects
+## [Volodymyr Agafonkin](https://agafonkin.com/)'s projects
 
 A list of open source projects I created, maintain or actively contribute to. [![](https://img.shields.io/badge/simply-awesome-brightgreen.svg)](https://github.com/mourner/projects)
 
