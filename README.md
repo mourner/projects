@@ -24,12 +24,12 @@ Project | Role | ★ | Description
 Project | Role | ★ | Description
 --- | --- | --- | ---
 [kdbush](https://github.com/mourner/kdbush) | author | 0.7k | Very fast static spatial index for 2D points in JavaScript.
-[robust-predicates](https://github.com/mourner/robust-predicates) | author | 0.3k | Fast robust geometric predicates (modern JS port of Shewchuk's).
+[robust&#8209;predicates](https://github.com/mourner/robust-predicates) | author | 0.3k | Fast robust geometric predicates (modern JS port of Shewchuk's).
 [concaveman](https://github.com/mapbox/concaveman) | author | 0.7k | The fastest concave hull algorithm in JS.
 [cheap-ruler](https://github.com/mapbox/cheap-ruler) | author | 0.4k | Collection of fast approximations for common geographic measurements.
 [tiny-sdf](https://github.com/mapbox/tiny-sdf) | author | 0.7k | Browser-side signed distance field generation from text.
 [potpack](https://github.com/mapbox/potpack) | author | 0.4k | A tiny and fast JS rectangle packing library (for sprite layouts).
-[MARTINI](https://github.com/mapbox/martini) | author | 0.7k | Real-time terrain meshing with right-triangulated irregular networks (RTIN).
+[MARTINI](https://github.com/mapbox/martini) | author | 0.7k | Fast terrain meshing via right-triangulated irregular networks (RTIN).
 [delatin](https://github.com/mapbox/delatin) | author | 0.3k | Fast terrain meshing via Delaunay-based greedy triangulation.
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;dev | 0.7k | Fast Voronoi diagram library for 2D points (based on Delaunator).
 [delaunator-rs](https://github.com/mourner/delaunator-rs) | author | 0.3k | A port of Delaunator to Rust.
@@ -55,9 +55,11 @@ Project | Role | ★ | Description
 [flamebearer](https://github.com/mapbox/flamebearer) | author | 1.7k | Blazing fast flame graphs for Node & V8.
 [bullshit.js](https://github.com/mourner/bullshit.js) | author | 1.9k | Bookmarklet to expose bullshit on web pages.
 [road-orientation-map](https://github.com/mourner/road-orientation-map) | author | 0.3k | A visualization of road orientations on an interactive map.
+[claudefiles](https://github.com/mourner/claudefiles) | author | | Tiny Claude Code efficiency kit (status line & guard hook).
 [tinyjam](https://github.com/mourner/tinyjam) | author | | A radically simple, zero-configuration static site generator.
 [yeahjs](https://github.com/mourner/yeahjs) | author | | A tiny, fast, modern EJS templating library.
 [geobuf](https://github.com/mapbox/geobuf) | maintainer | 1k | Compact binary encoding for geospatial data.
+[vector-tile-js](https://github.com/mapbox/vector-tile-js) | maintainer | 0.4k | Library for parsing Mapbox vector tiles in JavaScript.
 [tinyqueue](https://github.com/mourner/tinyqueue) | author | 0.5k | Small and simple JS priority queue.
 [flatqueue](https://github.com/mourner/flatqueue) | author | | A faster but more limited variation of tinyqueue.
 [quickselect](https://github.com/mourner/quickselect) | author | | Fast selection algorithm in JavaScript (Floyd-Rivest).
@@ -71,6 +73,7 @@ Project | Role | ★ | Description
 Project | Role | Description
 --- | --- | ---
 [magic-string](https://github.com/Rich-Harris/magic-string) | core&nbsp;dev | Tool for generating source maps (earlier contributions).
+[kothic-js](https://github.com/kothic/kothic-js) | core&nbsp;dev | Full-featured JS map rendering engine using HTML5 Canvas (earlier contributions).
 [dead-simple-grid](https://github.com/mourner/dead-simple-grid) | author | 250-byte CSS grid framework (unmaintained).
 [tile-cover](https://github.com/mapbox/tile-cover) | core&nbsp;dev | Generates the minimum set of tiles that cover a geometry (unmaintained).
 [tile-reduce](https://github.com/mapbox/tile-reduce) | core&nbsp;dev | Scalable vector tile geospatial analysis library for Node (unmaintained).
