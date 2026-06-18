@@ -7,7 +7,7 @@ Open source projects I created, maintain or significantly contributed to.
 Project | Role | ★ | Description
 --- | --- | --- | ---
 [Leaflet](https://github.com/Leaflet/Leaflet) | author | 45k | The number one JavaScript library for interactive maps.
-[Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) | core&nbsp;contributor | 12k | JavaScript/WebGL vector maps library.
+[Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) | core&nbsp;dev | 12k | JavaScript/WebGL vector maps library.
 [pixelmatch](https://github.com/mapbox/pixelmatch) | author | 6.9k | The fastest and smallest pixel-level image comparison library.
 [suncalc](https://github.com/mourner/suncalc) | author | 3.4k | Tiny library for calculating sun/moon positions and phases.
 [flatbush](https://github.com/mourner/flatbush) | author | 1.6k | Fast static spatial index for 2D rectangles and points.
@@ -17,7 +17,7 @@ Project | Role | ★ | Description
 [supercluster](https://github.com/mapbox/supercluster) | author | 2.3k | Fast geospatial point clustering library.
 [geojson-vt](https://github.com/mapbox/geojson-vt) | author | 2k | Very fast tile-based geospatial index for GeoJSON data.
 [polylabel](https://github.com/mapbox/polylabel) | author | 1.5k | Finds the pole of inaccessibility of a polygon (for labeling).
-[mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | core&nbsp;contributor | 4.5k | OpenGL-based vector maps rendering engine (archived).
+[mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | core&nbsp;dev | 4.5k | OpenGL-based vector maps rendering engine (archived).
 
 ## Computational geometry & geospatial algorithms
 
@@ -31,9 +31,9 @@ Project | Role | ★ | Description
 [potpack](https://github.com/mapbox/potpack) | author | 0.4k | A tiny and fast JS rectangle packing library (for sprite layouts).
 [MARTINI](https://github.com/mapbox/martini) | author | 0.7k | Real-time terrain mesh generation using right-triangulated irregular networks (RTIN).
 [delatin](https://github.com/mapbox/delatin) | author | 0.3k | Fast terrain mesh generation using Delaunay-based greedy triangulation.
-[d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;contributor | 0.7k | Fast Voronoi diagram library for 2D points (based on Delaunator).
+[d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;dev | 0.7k | Fast Voronoi diagram library for 2D points (based on Delaunator).
 [delaunator-rs](https://github.com/mourner/delaunator-rs) | author | 0.3k | A port of Delaunator to Rust.
-[earcut.hpp](https://github.com/mapbox/earcut.hpp) | core&nbsp;contributor | 1k | C++11 port of Earcut.
+[earcut.hpp](https://github.com/mapbox/earcut.hpp) | core&nbsp;dev | 1k | C++11 port of Earcut.
 [geoflatbush](https://github.com/mourner/geoflatbush) | author | | Geographic kNN queries for Flatbush.
 [geokdbush](https://github.com/mourner/geokdbush) | author | 0.4k | Geographic kNN queries for kdbush.
 [rbush-knn](https://github.com/mourner/rbush-knn) | author | | kNN search plugin for RBush.
@@ -61,7 +61,7 @@ Project | Role | ★ | Description
 [tinyqueue](https://github.com/mourner/tinyqueue) | author | 0.5k | Small and simple JS priority queue.
 [flatqueue](https://github.com/mourner/flatqueue) | author | | A faster but more limited variation of tinyqueue.
 [quickselect](https://github.com/mourner/quickselect) | author | | Fast selection algorithm in JavaScript (Floyd-Rivest).
-[simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;contributor | 3.5k | JavaScript implementation of descriptive, regression, and inference statistics.
+[simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;dev | 3.5k | JavaScript implementation of descriptive, regression, and inference statistics.
 
 ## Archive & experiments
 
@@ -70,11 +70,11 @@ Project | Role | ★ | Description
 
 Project | Role | Description
 --- | --- | ---
-[magic-string](https://github.com/Rich-Harris/magic-string) | core&nbsp;contributor | Tool for generating source maps (earlier contributions).
+[magic-string](https://github.com/Rich-Harris/magic-string) | core&nbsp;dev | Tool for generating source maps (earlier contributions).
 [dead-simple-grid](https://github.com/mourner/dead-simple-grid) | author | 250-byte CSS grid framework (unmaintained).
-[tile-cover](https://github.com/mapbox/tile-cover) | core&nbsp;contributor | Generates the minimum set of tiles that cover a geometry (unmaintained).
-[tile-reduce](https://github.com/mapbox/tile-reduce) | core&nbsp;contributor | Scalable vector tile geospatial analysis library for Node (unmaintained).
-[geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) | core&nbsp;contributor | C++11 port of GeoJSON-VT (archived).
+[tile-cover](https://github.com/mapbox/tile-cover) | core&nbsp;dev | Generates the minimum set of tiles that cover a geometry (unmaintained).
+[tile-reduce](https://github.com/mapbox/tile-reduce) | core&nbsp;dev | Scalable vector tile geospatial analysis library for Node (unmaintained).
+[geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) | core&nbsp;dev | C++11 port of GeoJSON-VT (archived).
 [seidel](https://github.com/mapbox/seidel) | author | Seidel's polygon triangulation in JS (deprecated).
 [binary-split](https://github.com/maxogden/binary-split) | maintainer | Fast Node.js stream splitter.
 [geojson-cpp](https://github.com/mapbox/geojson-cpp) | author | C++14 library for converting GeoJSON into [geometry.hpp](https://github.com/mapbox/geometry.hpp) representation (archived; formerly geojson.hpp).
