@@ -2,7 +2,7 @@
 
 Open source projects I created, maintain or significantly contributed to.
 
-### Highlights
+## Highlights
 
 Project | Role | Description
 --- | --- | ---
@@ -11,7 +11,7 @@ Project | Role | Description
 [pixelmatch](https://github.com/mapbox/pixelmatch) | author | The fastest and smallest pixel-level image comparison library.
 [suncalc](https://github.com/mourner/suncalc) | author | Tiny library for calculating sun/moon positions and phases.
 [flatbush](https://github.com/mourner/flatbush) | author | Fast static spatial index for 2D rectangles and points.
-[rbush](https://github.com/mourner/rbush) | author | Very fast JS R-tree-based 2D spatial index.
+[rbush](https://github.com/mourner/rbush) | author | Fast JS R-tree-based 2D spatial index.
 [delaunator](https://github.com/mapbox/delaunator) | author | The fastest JS Delaunay triangulation library for 2D points.
 [earcut](https://github.com/mapbox/earcut) | author | The fastest and smallest JS polygon triangulation library.
 [supercluster](https://github.com/mapbox/supercluster) | author | Fast geospatial point clustering library.
@@ -19,24 +19,24 @@ Project | Role | Description
 [polylabel](https://github.com/mapbox/polylabel) | author | Finds the pole of inaccessibility of a polygon (for labeling).
 [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | core&nbsp;contributor | OpenGL-based vector maps rendering engine (archived).
 
-### Computational geometry & geospatial algorithms
+## Computational geometry & geospatial algorithms
 
 Project | Role | Description
 --- | --- | ---
-[kdbush](https://github.com/mourner/kdbush) | author | The fastest 2D static spatial index in JavaScript.
+[kdbush](https://github.com/mourner/kdbush) | author | Very fast static spatial index for 2D points in JavaScript.
 [robust-predicates](https://github.com/mourner/robust-predicates) | author | Fast robust geometric predicates (modern JS port of J. Shewchuk's predicates).
 [concaveman](https://github.com/mapbox/concaveman) | author | The fastest concave hull algorithm in JS.
 [cheap-ruler](https://github.com/mapbox/cheap-ruler) | author | Collection of fast approximations for common geographic measurements.
 [tiny-sdf](https://github.com/mapbox/tiny-sdf) | author | Browser-side signed distance field generation from text.
 [potpack](https://github.com/mapbox/potpack) | author | A tiny and fast JS rectangle packing library (for sprite layouts).
-[MARTINI](https://github.com/mapbox/martini) | author | Real-time 3D terrain mesh generation.
-[delatin](https://github.com/mapbox/delatin) | author | A fast JavaScript 3D terrain mesh generation tool.
+[MARTINI](https://github.com/mapbox/martini) | author | Real-time terrain mesh generation using right-triangulated irregular networks (RTIN).
+[delatin](https://github.com/mapbox/delatin) | author | Fast terrain mesh generation using Delaunay-based greedy triangulation.
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;contributor | Fast Voronoi diagram library for 2D points (based on Delaunator).
 [delaunator-rs](https://github.com/mourner/delaunator-rs) | author | A port of Delaunator to Rust.
 [earcut.hpp](https://github.com/mapbox/earcut.hpp) | core&nbsp;contributor | C++11 port of Earcut.
 [geoflatbush](https://github.com/mourner/geoflatbush) | author | Geographic kNN queries for Flatbush.
-[geokdbush](https://github.com/mourner/geokdbush) | author | Geographic extension to kdbush for fast kNN queries of locations on Earth.
-[rbush-knn](https://github.com/mourner/rbush-knn) | author | K-nearest neighbors search plugin for RBush.
+[geokdbush](https://github.com/mourner/geokdbush) | author | Geographic kNN queries for kdbush.
+[rbush-knn](https://github.com/mourner/rbush-knn) | author | kNN search plugin for RBush.
 [simplify-js](https://github.com/mourner/simplify-js) | author | Fast JS polyline simplification library.
 [lineclip](https://github.com/mapbox/lineclip) | author | Fast library for clipping polylines and polygons by a bbox.
 [linematch](https://github.com/mapbox/linematch) | author | An ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
@@ -44,12 +44,12 @@ Project | Role | Description
 [dobbyscan](https://github.com/mapbox/dobbyscan) | author | Fast density-based clustering of geographic points.
 [icomesh](https://github.com/mourner/icomesh) | author | Fast icosphere mesh generation library for WebGL visualizations.
 
-### Other libraries & tools
+## Other libraries & tools
 
 Project | Role | Description
 --- | --- | ---
 [pbf](https://github.com/mapbox/pbf) | maintainer | Low-level, lightweight protocol buffers encoder/decoder for JS.
-[webgl-wind](https://github.com/mapbox/webgl-wind) | author | Fully GPU-powered wind simulation using WebGL.
+[webgl-wind](https://github.com/mapbox/webgl-wind) | author | WebGL-powered wind particle visualization.
 [simpleheat](https://github.com/mourner/simpleheat) | author | Tiny JavaScript library for drawing heatmaps with Canvas.
 [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) | author | Simple, fast heatmap plugin for Leaflet.
 [flamebearer](https://github.com/mapbox/flamebearer) | author | Blazing fast flame graphs for Node & V8.
@@ -59,11 +59,11 @@ Project | Role | Description
 [yeahjs](https://github.com/mourner/yeahjs) | author | A tiny, fast, modern EJS templating library.
 [geobuf](https://github.com/mapbox/geobuf) | maintainer | Compact binary encoding for geospatial data.
 [tinyqueue](https://github.com/mourner/tinyqueue) | author | Small and simple JS priority queue.
-[flatqueue](https://github.com/mourner/flatqueue) | author | A faster variation of a JS priority queue.
+[flatqueue](https://github.com/mourner/flatqueue) | author | A faster but more limited variation of tinyqueue.
 [quickselect](https://github.com/mourner/quickselect) | author | Fast selection algorithm in JavaScript (Floyd-Rivest).
 [simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;contributor | JavaScript implementation of descriptive, regression, and inference statistics.
 
-### Archive & experiments
+## Archive & experiments
 
 <details>
 <summary>Older, deprecated, unfinished or experimental projects — kept as a record of past work.</summary>
@@ -76,7 +76,7 @@ Project | Role | Description
 [tile-reduce](https://github.com/mapbox/tile-reduce) | core&nbsp;contributor | Scalable vector tile geospatial analysis library for Node (unmaintained).
 [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) | core&nbsp;contributor | C++11 port of GeoJSON-VT (archived).
 [seidel](https://github.com/mapbox/seidel) | author | Seidel's polygon triangulation in JS (deprecated).
-[binary-split](https://github.com/maxogden/binary-split) | maintainer | Fast splitting Node stream.
+[binary-split](https://github.com/maxogden/binary-split) | maintainer | Fast Node.js stream splitter.
 [geojson-cpp](https://github.com/mapbox/geojson-cpp) | author | C++14 library for converting GeoJSON into [geometry.hpp](https://github.com/mapbox/geometry.hpp) representation (archived; formerly geojson.hpp).
 [mbtiles-extracts](https://github.com/mapbox/mbtiles-extracts) | author | Tool for extracting regional subsets of MBTiles files (archived).
 [bbtrees](https://github.com/mourner/bbtree) | author | Self-balancing binary search tree implementations in JS (unfinished).
@@ -93,7 +93,6 @@ Project | Role | Description
 [fanny](https://github.com/mourner/fanny) | author | Experiments with feedforward neural networks in JS.
 [rollup-plugin-unassert](https://github.com/unassert-js/rollup-plugin-unassert) | maintainer | A Rollup plugin to remove assertion calls via Unassert.
 [hain](https://github.com/mourner/hain) | author | Port of Hain's polygon trapezoidation in JS (unfinished).
-
 </details>
 
 ## Contact
