@@ -24,13 +24,13 @@ Project | Role | ★ | Description
 Project | Role | ★ | Description
 --- | --- | --- | ---
 [kdbush](https://github.com/mourner/kdbush) | author | 0.7k | Very fast static spatial index for 2D points in JavaScript.
-[robust-predicates](https://github.com/mourner/robust-predicates) | author | 0.3k | Fast robust geometric predicates (modern JS port of J. Shewchuk's predicates).
+[robust-predicates](https://github.com/mourner/robust-predicates) | author | 0.3k | Fast robust geometric predicates (modern JS port of Shewchuk's).
 [concaveman](https://github.com/mapbox/concaveman) | author | 0.7k | The fastest concave hull algorithm in JS.
 [cheap-ruler](https://github.com/mapbox/cheap-ruler) | author | 0.4k | Collection of fast approximations for common geographic measurements.
 [tiny-sdf](https://github.com/mapbox/tiny-sdf) | author | 0.7k | Browser-side signed distance field generation from text.
 [potpack](https://github.com/mapbox/potpack) | author | 0.4k | A tiny and fast JS rectangle packing library (for sprite layouts).
-[MARTINI](https://github.com/mapbox/martini) | author | 0.7k | Real-time terrain mesh generation using right-triangulated irregular networks (RTIN).
-[delatin](https://github.com/mapbox/delatin) | author | 0.3k | Fast terrain mesh generation using Delaunay-based greedy triangulation.
+[MARTINI](https://github.com/mapbox/martini) | author | 0.7k | Real-time terrain meshing with right-triangulated irregular networks (RTIN).
+[delatin](https://github.com/mapbox/delatin) | author | 0.3k | Fast terrain meshing via Delaunay-based greedy triangulation.
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;dev | 0.7k | Fast Voronoi diagram library for 2D points (based on Delaunator).
 [delaunator-rs](https://github.com/mourner/delaunator-rs) | author | 0.3k | A port of Delaunator to Rust.
 [earcut.hpp](https://github.com/mapbox/earcut.hpp) | core&nbsp;dev | 1k | C++11 port of Earcut.
@@ -39,8 +39,8 @@ Project | Role | ★ | Description
 [rbush-knn](https://github.com/mourner/rbush-knn) | author | | kNN search plugin for RBush.
 [simplify-js](https://github.com/mourner/simplify-js) | author | 2.4k | Fast JS polyline simplification library.
 [lineclip](https://github.com/mapbox/lineclip) | author | | Fast library for clipping polylines and polygons by a bbox.
-[linematch](https://github.com/mapbox/linematch) | author | | An ultra-fast algorithm for comparing sets of polylines (e.g. road networks).
-[which-polygon](https://github.com/mapbox/which-polygon) | author | | Fast index for matching points against a set of polygons (e.g. point-in-country queries).
+[linematch](https://github.com/mapbox/linematch) | author | | Fast algorithm for comparing polyline sets (e.g. road networks).
+[which-polygon](https://github.com/mapbox/which-polygon) | author | | Fast index for point-in-polygon queries (e.g. point-in-country).
 [dobbyscan](https://github.com/mapbox/dobbyscan) | author | | Fast density-based clustering of geographic points.
 [icomesh](https://github.com/mourner/icomesh) | author | | Fast icosphere mesh generation library for WebGL visualizations.
 
@@ -61,7 +61,7 @@ Project | Role | ★ | Description
 [tinyqueue](https://github.com/mourner/tinyqueue) | author | 0.5k | Small and simple JS priority queue.
 [flatqueue](https://github.com/mourner/flatqueue) | author | | A faster but more limited variation of tinyqueue.
 [quickselect](https://github.com/mourner/quickselect) | author | | Fast selection algorithm in JavaScript (Floyd-Rivest).
-[simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;dev | 3.5k | JavaScript implementation of descriptive, regression, and inference statistics.
+[simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;dev | 3.5k | Descriptive, regression, and inference statistics for JS.
 
 ## Archive & experiments
 
