@@ -26,7 +26,7 @@ Project | Role | ★ | Description
 [kdbush](https://github.com/mourner/kdbush) | author | 0.7k | Very fast static spatial index for 2D points in JavaScript.
 [robust&#8209;predicates](https://github.com/mourner/robust-predicates) | author | 0.3k | Fast robust geometric predicates (modern JS port of Shewchuk's).
 [concaveman](https://github.com/mapbox/concaveman) | author | 0.7k | The fastest concave hull algorithm in JS.
-[cheap-ruler](https://github.com/mapbox/cheap-ruler) | author | 0.4k | Collection of fast approximations for common geographic measurements.
+[cheap-ruler](https://github.com/mapbox/cheap-ruler) | author | 0.4k | Fast approximations for common geographic measurements.
 [tiny-sdf](https://github.com/mapbox/tiny-sdf) | author | 0.7k | Browser-side signed distance field generation from text.
 [potpack](https://github.com/mapbox/potpack) | author | 0.4k | A tiny and fast JS rectangle packing library (for sprite layouts).
 [MARTINI](https://github.com/mapbox/martini) | author | 0.7k | Fast terrain meshing via right-triangulated irregular networks (RTIN).
