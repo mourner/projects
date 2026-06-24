@@ -43,6 +43,7 @@ Project | Role | ★ | Description
 [which-polygon](https://github.com/mapbox/which-polygon) | author | | Fast index for point-in-polygon queries (e.g. point-in-country).
 [dobbyscan](https://github.com/mapbox/dobbyscan) | author | | Fast density-based clustering of geographic points.
 [icomesh](https://github.com/mourner/icomesh) | author | | Fast icosphere mesh generation library for WebGL visualizations.
+[circle-union](https://github.com/mourner/circle-union) | author | | Fast union of geographic circles as coverage polygons.
 
 ## Other libraries & tools
 
