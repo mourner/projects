@@ -1,6 +1,6 @@
 ## [Volodymyr Agafonkin](https://agafonkin.com/)'s projects
 
-Open source projects I created, maintain or significantly contributed to.
+Open source projects I created, maintain or significantly contributed to, with a focus on maps, computational geometry & data visualization. Most are tiny, dependency-free, and built for exceptional performance.
 
 ## Highlights
 
@@ -11,11 +11,11 @@ Project | Role | ★ | Description
 [pixelmatch](https://github.com/mapbox/pixelmatch) | author | 6.9k | The fastest and smallest pixel-level image comparison library.
 [suncalc](https://github.com/mourner/suncalc) | author | 3.4k | Tiny library for calculating sun/moon positions and phases.
 [flatbush](https://github.com/mourner/flatbush) | author | 1.6k | Fast static spatial index for 2D rectangles and points.
-[rbush](https://github.com/mourner/rbush) | author | 2.8k | Fast JS R-tree-based 2D spatial index.
+[rbush](https://github.com/mourner/rbush) | author | 2.8k | Fast dynamic R-tree-based 2D spatial index.
 [delaunator](https://github.com/mapbox/delaunator) | author | 2.6k | The fastest JS Delaunay triangulation library for 2D points.
 [earcut](https://github.com/mapbox/earcut) | author | 2.5k | The fastest and smallest JS polygon triangulation library.
 [supercluster](https://github.com/mapbox/supercluster) | author | 2.3k | Fast geospatial point clustering library.
-[geojson-vt](https://github.com/mapbox/geojson-vt) | author | 2k | Very fast tile-based geospatial index for GeoJSON data.
+[geojson-vt](https://github.com/mapbox/geojson-vt) | author | 2k | Fast tile-based geospatial index for GeoJSON data.
 [polylabel](https://github.com/mapbox/polylabel) | author | 1.5k | Finds the pole of inaccessibility of a polygon (for labeling).
 [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | core&nbsp;dev | 4.5k | OpenGL-based vector maps rendering engine (archived).
 
@@ -23,9 +23,9 @@ Project | Role | ★ | Description
 
 Project | Role | ★ | Description
 --- | --- | --- | ---
-[kdbush](https://github.com/mourner/kdbush) | author | 0.7k | Very fast static spatial index for 2D points in JavaScript.
+[kdbush](https://github.com/mourner/kdbush) | author | 0.7k | Fast static spatial index for 2D points in JavaScript.
 [robust&#8209;predicates](https://github.com/mourner/robust-predicates) | author | 0.3k | Fast robust geometric predicates (modern JS port of Shewchuk's).
-[concaveman](https://github.com/mapbox/concaveman) | author | 0.7k | The fastest concave hull algorithm in JS.
+[concaveman](https://github.com/mapbox/concaveman) | author | 0.7k | Fast concave hull algorithm in JS.
 [cheap-ruler](https://github.com/mapbox/cheap-ruler) | author | 0.4k | Fast approximations for common geographic measurements.
 [tiny-sdf](https://github.com/mapbox/tiny-sdf) | author | 0.7k | Browser-side signed distance field generation from text.
 [potpack](https://github.com/mapbox/potpack) | author | 0.4k | A tiny and fast JS rectangle packing library (for sprite layouts).
@@ -34,7 +34,7 @@ Project | Role | ★ | Description
 [d3-delaunay](https://github.com/d3/d3-delaunay) | core&nbsp;dev | 0.7k | Fast Voronoi diagram library for 2D points (based on Delaunator).
 [delaunator-rs](https://github.com/mourner/delaunator-rs) | author | 0.3k | A port of Delaunator to Rust.
 [earcut.hpp](https://github.com/mapbox/earcut.hpp) | core&nbsp;dev | 1k | C++11 port of Earcut.
-[geoflatbush](https://github.com/mourner/geoflatbush) | author | | Geographic kNN queries for Flatbush.
+[geoflatbush](https://github.com/mourner/geoflatbush) | author | | Geographic queries for Flatbush.
 [geokdbush](https://github.com/mourner/geokdbush) | author | 0.4k | Geographic kNN queries for kdbush.
 [rbush-knn](https://github.com/mourner/rbush-knn) | author | | kNN search plugin for RBush.
 [simplify-js](https://github.com/mourner/simplify-js) | author | 2.4k | Fast JS polyline simplification library.
@@ -53,7 +53,7 @@ Project | Role | ★ | Description
 [webgl-wind](https://github.com/mapbox/webgl-wind) | author | 1.1k | WebGL-powered wind particle visualization.
 [simpleheat](https://github.com/mourner/simpleheat) | author | 1k | Tiny JavaScript library for drawing heatmaps with Canvas.
 [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) | author | 1.6k | Simple, fast heatmap plugin for Leaflet.
-[flamebearer](https://github.com/mapbox/flamebearer) | author | 1.7k | Blazing fast flame graphs for Node & V8.
+[flamebearer](https://github.com/mapbox/flamebearer) | author | 1.7k | Fast flame graphs for Node & V8.
 [bullshit.js](https://github.com/mourner/bullshit.js) | author | 1.9k | Bookmarklet to expose bullshit on web pages.
 [road-orientation-map](https://github.com/mourner/road-orientation-map) | author | 0.3k | A visualization of road orientations on an interactive map.
 [claudefiles](https://github.com/mourner/claudefiles) | author | | Tiny Claude Code efficiency kit (status line & guard hook).
