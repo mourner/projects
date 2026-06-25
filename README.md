@@ -59,6 +59,7 @@ Project | Role | ★ | Description
 [claudefiles](https://github.com/mourner/claudefiles) | author | | Tiny Claude Code efficiency kit (status line & guard hook).
 [tinyjam](https://github.com/mourner/tinyjam) | author | | A radically simple, zero-configuration static site generator.
 [yeahjs](https://github.com/mourner/yeahjs) | author | | A tiny, fast, modern EJS templating library.
+[yeahml](https://github.com/mourner/yeahml) | author | | A tiny, fast JS parser for a strict subset of YAML.
 [geobuf](https://github.com/mapbox/geobuf) | maintainer | 1k | Compact binary encoding for geospatial data.
 [vector-tile-js](https://github.com/mapbox/vector-tile-js) | maintainer | 0.4k | Library for parsing Mapbox vector tiles in JavaScript.
 [tinyqueue](https://github.com/mourner/tinyqueue) | author | 0.5k | Small and simple JS priority queue.
