@@ -49,11 +49,11 @@ Project | Role | ★ | Description
 
 Project | Role | ★ | Description
 --- | --- | --- | ---
+[flamebearer](https://github.com/mapbox/flamebearer) | author | 1.7k | A JavaScript CPU trace analysis tool for agents and humans.
 [pbf](https://github.com/mapbox/pbf) | maintainer | 0.9k | Low-level, lightweight protocol buffers encoder/decoder for JS.
 [webgl-wind](https://github.com/mapbox/webgl-wind) | author | 1.1k | WebGL-powered wind particle visualization.
 [simpleheat](https://github.com/mourner/simpleheat) | author | 1k | Tiny JavaScript library for drawing heatmaps with Canvas.
 [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) | author | 1.6k | Simple, fast heatmap plugin for Leaflet.
-[flamebearer](https://github.com/mapbox/flamebearer) | author | 1.7k | Fast flame graphs for Node & V8.
 [bullshit.js](https://github.com/mourner/bullshit.js) | author | 1.9k | Bookmarklet to expose bullshit on web pages.
 [road-orientation-map](https://github.com/mourner/road-orientation-map) | author | 0.3k | A visualization of road orientations on an interactive map.
 [claudefiles](https://github.com/mourner/claudefiles) | author | | Tiny Claude Code efficiency kit (status line & guard hook).
