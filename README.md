@@ -13,7 +13,7 @@ Project | Role | ★ | Description
 [flatbush](https://github.com/mourner/flatbush) | author | 1.6k | Fast static spatial index for 2D rectangles and points.
 [rbush](https://github.com/mourner/rbush) | author | 2.8k | Fast dynamic R-tree-based 2D spatial index.
 [delaunator](https://github.com/mapbox/delaunator) | author | 2.6k | The fastest JS Delaunay triangulation library for 2D points.
-[earcut](https://github.com/mapbox/earcut) | author | 2.5k | The fastest and smallest JS polygon triangulation library.
+[earcut](https://github.com/mapbox/earcut) | author | 2.6k | The fastest and smallest JS polygon triangulation library.
 [supercluster](https://github.com/mapbox/supercluster) | author | 2.3k | Fast geospatial point clustering library.
 [geojson-vt](https://github.com/mapbox/geojson-vt) | author | 2k | Fast tile-based geospatial index for GeoJSON data.
 [polylabel](https://github.com/mapbox/polylabel) | author | 1.5k | Finds the pole of inaccessibility of a polygon (for labeling).
