@@ -6,17 +6,17 @@ Open source projects I created, maintain or significantly contributed to, with a
 
 Project | Role | ★ | Description
 --- | --- | --- | ---
-[Leaflet](https://github.com/Leaflet/Leaflet) | author | 45k | The number one JavaScript library for interactive maps.
+[Leaflet](https://github.com/Leaflet/Leaflet) | author | 46k | The number one JavaScript library for interactive maps.
 [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) | core&nbsp;dev | 12k | JavaScript/WebGL vector maps library.
 [pixelmatch](https://github.com/mapbox/pixelmatch) | author | 6.9k | The fastest and smallest pixel-level image comparison library.
-[suncalc](https://github.com/mourner/suncalc) | author | 3.4k | Tiny library for calculating sun/moon positions and phases.
+[suncalc](https://github.com/mourner/suncalc) | author | 3.5k | Tiny library for calculating sun/moon positions and phases.
 [flatbush](https://github.com/mourner/flatbush) | author | 1.6k | Fast static spatial index for 2D rectangles and points.
 [rbush](https://github.com/mourner/rbush) | author | 2.8k | Fast dynamic R-tree-based 2D spatial index.
 [delaunator](https://github.com/mapbox/delaunator) | author | 2.6k | The fastest JS Delaunay triangulation library for 2D points.
 [earcut](https://github.com/mapbox/earcut) | author | 2.6k | The fastest and smallest JS polygon triangulation library.
-[supercluster](https://github.com/mapbox/supercluster) | author | 2.3k | Fast geospatial point clustering library.
+[supercluster](https://github.com/mapbox/supercluster) | author | 2.4k | Fast geospatial point clustering library.
 [geojson-vt](https://github.com/mapbox/geojson-vt) | author | 2k | Fast tile-based geospatial index for GeoJSON data.
-[polylabel](https://github.com/mapbox/polylabel) | author | 1.5k | Finds the pole of inaccessibility of a polygon (for labeling).
+[polylabel](https://github.com/mapbox/polylabel) | author | 1.6k | Finds the pole of inaccessibility of a polygon (for labeling).
 [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | core&nbsp;dev | 4.5k | OpenGL-based vector maps rendering engine (archived).
 
 ## Computational geometry & geospatial algorithms
