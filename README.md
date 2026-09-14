@@ -15,7 +15,7 @@ Project | Role | ★ | Description
 [delaunator](https://github.com/mapbox/delaunator) | author | 2.6k | The fastest JS Delaunay triangulation library for 2D points.
 [earcut](https://github.com/mapbox/earcut) | author | 2.6k | The fastest and smallest JS polygon triangulation library.
 [supercluster](https://github.com/mapbox/supercluster) | author | 2.4k | Fast geospatial point clustering library.
-[geojson-vt](https://github.com/mapbox/geojson-vt) | author | 2k | Fast tile-based geospatial index for GeoJSON data.
+[geojson-vt](https://github.com/mapbox/geojson-vt) | author | 2.1k | Fast tile-based geospatial index for GeoJSON data.
 [polylabel](https://github.com/mapbox/polylabel) | author | 1.6k | Finds the pole of inaccessibility of a polygon (for labeling).
 [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | core&nbsp;dev | 4.5k | OpenGL-based vector maps rendering engine (archived).
 
