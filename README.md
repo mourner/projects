@@ -8,7 +8,7 @@ Project | Role | ★ | Description
 --- | --- | --- | ---
 [Leaflet](https://github.com/Leaflet/Leaflet) | author | 46k | The number one JavaScript library for interactive maps.
 [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) | core&nbsp;dev | 12k | JavaScript/WebGL vector maps library.
-[pixelmatch](https://github.com/mapbox/pixelmatch) | author | 6.9k | The fastest and smallest pixel-level image comparison library.
+[pixelmatch](https://github.com/mapbox/pixelmatch) | author | 7k | The fastest and smallest pixel-level image comparison library.
 [suncalc](https://github.com/mourner/suncalc) | author | 3.5k | Tiny library for calculating sun/moon positions and phases.
 [flatbush](https://github.com/mourner/flatbush) | author | 1.6k | Fast static spatial index for 2D rectangles and points.
 [rbush](https://github.com/mourner/rbush) | author | 2.8k | Fast dynamic R-tree-based 2D spatial index.
