@@ -66,6 +66,7 @@ Project | Role | ★ | Description
 [flatqueue](https://github.com/mourner/flatqueue) | author | | A faster but more limited variation of tinyqueue.
 [quickselect](https://github.com/mourner/quickselect) | author | | Fast selection algorithm in JavaScript (Floyd-Rivest).
 [simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;dev | 3.5k | Descriptive, regression, and inference statistics for JS.
+[mapbox-gl-rtl-text](https://github.com/mapbox/mapbox-gl-rtl-text/) | maintainer | | RTL text shaping in the browser.
 
 ## Archive & experiments
 
