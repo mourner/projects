@@ -67,6 +67,7 @@ Project | Role | ★ | Description
 [quickselect](https://github.com/mourner/quickselect) | author | | Fast selection algorithm in JavaScript (Floyd-Rivest).
 [simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;dev | 3.5k | Descriptive, regression, and inference statistics for JS.
 [mapbox-gl-rtl-text](https://github.com/mapbox/mapbox-gl-rtl-text/) | maintainer | | RTL text shaping in the browser.
+[binary-split](https://github.com/maxogden/binary-split) | maintainer | Fast Node.js stream splitter.
 
 ## Archive & experiments
 
@@ -82,7 +83,6 @@ Project | Role | Description
 [tile-reduce](https://github.com/mapbox/tile-reduce) | core&nbsp;dev | Scalable vector tile geospatial analysis library for Node (unmaintained).
 [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) | core&nbsp;dev | C++11 port of GeoJSON-VT (archived).
 [seidel](https://github.com/mapbox/seidel) | author | Seidel's polygon triangulation in JS (deprecated).
-[binary-split](https://github.com/maxogden/binary-split) | maintainer | Fast Node.js stream splitter.
 [geojson-cpp](https://github.com/mapbox/geojson-cpp) | author | C++14 library for converting GeoJSON into [geometry.hpp](https://github.com/mapbox/geometry.hpp) representation (archived; formerly geojson.hpp).
 [mbtiles-extracts](https://github.com/mapbox/mbtiles-extracts) | author | Tool for extracting regional subsets of MBTiles files (archived).
 [bbtrees](https://github.com/mourner/bbtree) | author | Self-balancing binary search tree implementations in JS (unfinished).
