@@ -67,7 +67,8 @@ Project | Role | ★ | Description
 [quickselect](https://github.com/mourner/quickselect) | author | | Fast selection algorithm in JavaScript (Floyd-Rivest).
 [simple-statistics](https://github.com/simple-statistics/simple-statistics) | core&nbsp;dev | 3.5k | Descriptive, regression, and inference statistics for JS.
 [mapbox-gl-rtl-text](https://github.com/mapbox/mapbox-gl-rtl-text/) | maintainer | | RTL text shaping in the browser.
-[binary-split](https://github.com/maxogden/binary-split) | maintainer | Fast Node.js stream splitter.
+[binary-split](https://github.com/maxogden/binary-split) | maintainer | | Fast Node.js stream splitter.
+[pixelmatch-cpp](https://github.com/mapbox/pixelmatch-cpp) | maintainer | | Official C++ port of Pixelmatch
 
 ## Archive & experiments
 
